@@ -67,12 +67,12 @@ td {
 }
 #skills {
   padding-inline-start: 56px;
+  text-align: center;
 }
 .title-skills {
-  width: fit-content;
+  display: inline-block;
   border-bottom: 6px solid;
-  margin: 0 50%;
-  padding-bottom: 5px;
+  line-height: 1.5em;
 }
 .progress .progress-bar {
   animation: move 2s linear;
@@ -82,7 +82,7 @@ td {
 .progress,
 .progress-bar {
   height: 25px;
-  width: 400px;
+  /* width: 400px; */
   border-radius: 15px;
 }
 .progress-bar span {
