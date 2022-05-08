@@ -4,7 +4,7 @@ html {
 }
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: whitesmoke;
+  background-color: #e9ecef;
 }
 @media (max-width: 567px) {
   #home {
@@ -32,7 +32,7 @@ body {
   padding: 5px 7px;
 }
 nav {
-  background: whitesmoke;
+  background: #e9ecef;
 }
 .navbar-toggler,
 .navbar-toggler:focus,
@@ -77,7 +77,7 @@ td {
 .progress .progress-bar {
   animation: move 2s linear;
   text-align: right;
-  padding-inline-end: 2px;
+  padding-inline-end: 10px;
 }
 .progress,
 .progress-bar {
