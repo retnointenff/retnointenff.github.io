@@ -10,6 +10,15 @@ body {
   #home {
     padding-left: 36px;
   }
+  img {
+    width: 100%;
+  }
+  h1 {
+    font-size: 8vmin;
+  }
+  h5 {
+    font-size: 5vmin;
+  }
 }
 .soc-med {
   position: fixed;
